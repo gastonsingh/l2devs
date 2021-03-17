@@ -1,0 +1,29 @@
+{
+  "name": "l2devs",
+  "version": "1.0.0",
+  "description": "l2devs.com",
+  "main": "index.js",
+  "scripts": {
+    "watch": "nodemon ./start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gastonsingh/l2devs.git"
+  },
+  "keywords": [
+    "l2devs"
+  ],
+  "author": "admin@l2devs.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gastonsingh/l2devs/issues"
+  },
+  "homepage": "https://github.com/gastonsingh/l2devs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
